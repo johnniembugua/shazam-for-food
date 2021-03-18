@@ -1,0 +1,7 @@
+0 Not a Food
+1 Bread
+2 Dessert
+3 Egg
+4 Beef
+5 Noodles-pasta
+6 Rice
